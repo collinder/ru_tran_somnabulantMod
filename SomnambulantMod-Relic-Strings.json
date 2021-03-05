@@ -1,0 +1,72 @@
+{
+	"somnambulantmod: DreamJournal": {
+		"NAME": "Dream Journal",
+		"FLAVOR": "Write it when you wake.",
+		"DESCRIPTIONS": [
+			"Whenever you rest at a campsite, raise your Max HP by #b2 and upgrade a random card in your deck."
+		]
+	},
+	"somnambulantmod: DementingVeil": {
+		"NAME": "Dementing Veil",
+		"FLAVOR": "Everything spirals into dream.",
+		"DESCRIPTIONS": [
+			"At the end of your turn, exhaust all cards in your hand."
+		]
+	},
+	"somnambulantmod: GluedMask": {
+		"NAME": "Glued Mask",
+		"FLAVOR": "It helps you see things as they should be.",
+		"DESCRIPTIONS": [
+			"At the start of your turn, gain [E] . At the beginning of combat, add 2 Nightmares to your draw pile. Nightmares can not be played."
+		]
+	},
+	"somnambulantmod: BrokenTimepiece": {
+		"NAME": "Broken Timepiece",
+		"FLAVOR": "Trust no other to wake you but a working timepiece.",
+		"DESCRIPTIONS": [
+			"Whenever a Dream is exhausted, gain 3 Strength."
+		]
+	},
+	"somnambulantmod: MemoirOfAnother": {
+		"NAME": "Memoir of Another",
+		"FLAVOR": "Proper literature for a dream out of bounds.",
+		"DESCRIPTIONS": [
+			"Whenever you rest, you may add a card of another color to your deck. If you have a 'Dream Catcher', add a Somnambulant card to the options and upgrade them."
+		]
+	},
+	"somnambulantmod: MemoryHouse": {
+		"NAME": "Memory House",
+		"FLAVOR": "A place to keep them safe.",
+		"DESCRIPTIONS": [
+			"At the beginning of combat, add 2 Dreams to your discard pile."
+		]
+	},
+	"somnambulantmod: SleepingPills": {
+		"NAME": "Sleeping Pills",
+		"FLAVOR": "To build a cavernous mind.",
+		"DESCRIPTIONS": [
+			"Cards created from Dreams cost 0 until end of combat."
+		]
+	},
+	"somnambulantmod: RunicStrip": {
+		"NAME": "Runic Strip",
+		"FLAVOR": "Infinite objects can be somewhat tiring.",
+		"DESCRIPTIONS": [
+			"Whenever an enemy gains strength, gain 3 Mental Barrier."
+		]
+	},
+	"somnambulantmod: CiphersPen": {
+		"NAME": "Cipher's Pen",
+		"FLAVOR": "The pen writes its meaning true.",
+		"DESCRIPTIONS": [
+			"Whenever you create a Dream or Nightmare, upgrade it."
+		]
+	},
+	"somnambulantmod: PrivatePocket": {
+		"NAME": "Private Pocket",
+		"FLAVOR": "Everyone has the right to their private pocket.",
+		"DESCRIPTIONS": [
+			"Whenever a card is exhausted, gain 1 Mental Barrier."
+		]
+	}
+}

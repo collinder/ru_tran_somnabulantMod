@@ -1,0 +1,155 @@
+{
+        "somnambulantmod: CommonPower": {
+                "NAME": "Placeholder Power",
+                "DESCRIPTIONS": [
+                        "You applied ",
+                        " keyword.",
+                        " keywords."
+                ]
+        },
+        "somnambulantmod: RarePower": {
+                "NAME": "Placeholder Power",
+                "DESCRIPTIONS": [
+                        "At the start of your turn TOUCH ",
+                        " enemy.",
+                        " enemies."
+                ]
+        },
+        "somnambulantmod: DarkeningMindPower": {
+                "NAME": "Darkening Mind",
+                "DESCRIPTIONS": [
+                        "Whenever you draw a Nightmare, gain #b",
+                        " Strength."
+                ]
+        },
+        "somnambulantmod: HushPower": {
+                "NAME": "Hush",
+                "DESCRIPTIONS": [
+                        "At the start of your turn, shuffle #b",
+                        " Hush into your draw pile."
+                ]
+        },
+        "somnambulantmod: ImpenetrableMindPower": {
+                "NAME": "Impenetrable Mind",
+                "DESCRIPTIONS": [
+                        "Whenever you draw a card, gain #b",
+                        " block."
+                ]
+        },
+        "somnambulantmod: MentalBarrierPower": {
+                "NAME": "Mental Barrier",
+                "DESCRIPTIONS": [
+                        "At the end of your turn, gain #b",
+                        " block, then reduce #yMental #yBarrier by #b1. Whenever you take attack damage, lower your Mental Barrier by that amount."
+                ]
+        },
+        "somnambulantmod: InLimboPower": {
+                "NAME": "In Limbo",
+                "DESCRIPTIONS": [
+                        "Whenever you play your #b4th card in a turn, add your discard pile to the top of your draw pile in random order "
+                ]
+        },
+        "somnambulantmod: LoseFormPower": {
+                "NAME": "Lose Form",
+                "DESCRIPTIONS": [
+                        "At the start of your turn, play a card from your discard pile and exhaust it."
+                ]
+        },
+        "somnambulantmod: LoseFormRandomPower": {
+                "NAME": "Lose Form (random)",
+                "DESCRIPTIONS": [
+                        "At the start of your turn, play a random card from your discard pile and exhaust it."
+                ]
+        },
+        "somnambulantmod: DeeperSleepPower": {
+                "NAME": "Deeper Sleep",
+                "DESCRIPTIONS": [
+                        "Whenever you draw a Dream, gain #b",
+                        " Dexterity."
+                ]
+        },
+        "somnambulantmod: LucidityPower": {
+                "NAME": "Lucidity",
+                "DESCRIPTIONS": [
+                        "At the end of your turn, add #b",
+                        " Dream(s) to your discard pile. All cards exhaust when played."
+                ]
+        },
+        "somnambulantmod: SleepingBodyPower": {
+                "NAME": "Sleeping Body",
+                "DESCRIPTIONS": [
+                        "Whenever you draw a Dream or Nightmare, gain #b",
+                        " Block."
+                ]
+        },
+        "somnambulantmod: RelivePower": {
+                "NAME": "Relive",
+                "DESCRIPTIONS": [
+                        "Shuffle #b",
+                        " copies of the next card you play this turn into your draw pile."
+                ]
+        },
+        "somnambulantmod: RefracturePower": {
+                "NAME": "Refracture",
+                "DESCRIPTIONS": [
+                        "Whenever you exhaust a card, deal #b",
+                        " damage to a random enemy."
+                ]
+        },
+        "somnambulantmod: IgnorancePower": {
+                "NAME": "Ignorance",
+                "DESCRIPTIONS": [
+                        "Whenever you exhaust a card this turn, gain #b",
+                        " energy."
+                ]
+        },
+        "somnambulantmod: LightSleeperPower": {
+                "NAME": "Light Sleeper",
+                "DESCRIPTIONS": [
+                        "Dreams and Nightmares cost #b",
+                        " less."
+                ]
+        },
+        "somnambulantmod: RuthlessStudyPower": {
+                "NAME": "Ruthless Study",
+                "DESCRIPTIONS": [
+                        "Until end of turn, whenever you draw a card, gain #b",
+                        " Mental Barrier."
+                ]
+        },
+        "somnambulantmod: LostMindPower": {
+                "NAME": "Lost Mind",
+                "DESCRIPTIONS": [
+                        "At the start of your turn, gain #b",
+                        " energy and add #b",
+                        " Nightmare to your draw pile."
+                ]
+        },
+        "somnambulantmod: GalaxyBrainPower": {
+                "NAME": "Galaxy Brain",
+                "DESCRIPTIONS": [
+                        "Whenever you play a Dream, exhaust all cards in your hand."
+                ]
+        },
+        "somnambulantmod: MindlessnessPower": {
+                "NAME": "Mindlessness",
+                "DESCRIPTIONS": [
+                        "Whenever you exhaust a card, add #b",
+                        " random attack(s) to your hand."
+                ]
+        },
+        "somnambulantmod: NightHauntsPower": {
+                "NAME": "Haunted",
+                "DESCRIPTIONS": [
+                        "Whenever you exhaust a card this turn, apply #b",
+                        " poison."
+                ]
+        },
+        "somnambulantmod: BrainFeederPower": {
+                "NAME": "Brain Feeder",
+                "DESCRIPTIONS": [
+                        "When attacked, add #b",
+                        " Dream(s) to your discard pile."
+                ]
+        }
+}

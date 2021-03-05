@@ -1,0 +1,399 @@
+{
+	"somnambulantmod: SomnambulantStrike": {
+		"NAME": "Strike",
+		"DESCRIPTION": "Deal !D! damage."
+	},
+	"somnambulantmod: Trauma": {
+		"NAME": "Trauma",
+		"DESCRIPTION": "Deal !D! damage. NL Shuffle a Nightmare into your draw pile."
+	},
+	"somnambulantmod: OpeningUp": {
+		"NAME": "Opening Up",
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you draw this card, shuffle a Nightmare into your draw pile."
+	},
+	"somnambulantmod: Bruise": {
+		"NAME": "Bruise",
+		"DESCRIPTION": "Deal !D! damage and apply !M! Weak to ALL enemies."
+	},
+	"somnambulantmod: PourItOut": {
+		"NAME": "Pour It Out",
+		"DESCRIPTION": "Ethereal. NL Deal !D! damage for each card played this turn.",
+		"UPGRADE_DESCRIPTION": "NL Deal !D! damage for each card played this turn.",
+		"EXTENDED_DESCRIPTION": [
+			" NL (You have played ",
+			" card this turn).",
+			" cards this turn)."
+		]
+	},
+	"somnambulantmod: NightmareFuel": {
+		"NAME": "Nightmare Fuel",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies X times. NL Shuffle X Nightmares into your draw pile."
+	},
+	"somnambulantmod: RecurringDream": {
+		"NAME": "Recurring Dream",
+		"DESCRIPTION": "Deal !D! damage. Shuffle a copy of this card into your draw pile. NL Add a Dazed to your hand. Exhaust."
+	},
+	"somnambulantmod: ViralIdea": {
+		"NAME": "Viral Idea",
+		"DESCRIPTION": "Whenever you draw this card, add 2 copies of it to your hand. NL Deal !D! damage to ALL enemies. NL Exhaust."
+	},
+	"somnambulantmod: RacingThoughts": {
+		"NAME": "Racing Thoughts",
+		"DESCRIPTION": "Deal !D! damage. Whenever you draw this card, increase its damage by !M!."
+	},
+	"somnambulantmod: Repression": {
+		"NAME": "Repression",
+		"DESCRIPTION": "Gain !B! block. NL Discard !M! card from your draw pile.",
+		"UPGRADE_DESCRIPTION": "Gain !B! block. NL Discard !M! cards from your draw pile."
+	},
+	"somnambulantmod: Remember": {
+		"NAME": "Remember",
+		"DESCRIPTION": "Deal !D! damage. NL Put a card from your exhaust pile on top of your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Put a card from your exhaust pile on top of your draw pile. NL Exhaust."
+	},
+	"somnambulantmod: HorrificThought": {
+		"NAME": "Horrific Thought",
+		"DESCRIPTION": "Draw !M! cards. NL Shuffle 2 Nightmares into your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Shuffle 2 Nightmares into your draw pile."
+	},
+	"somnambulantmod: TimeCompression": {
+		"NAME": "Time Compression",
+		"DESCRIPTION": "Deal !D! damage. NL Gain [G] for each Nightmare in your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Gain [G] for each Nightmare in your hand."
+	},
+	"somnambulantmod: HappyThoughts": {
+		"NAME": "Happy Thoughts",
+		"DESCRIPTION": "Apply !M! Weak. NL Discard a card.",
+		"UPGRADE_DESCRIPTION": "Apply !M! Weak. NL Discard a card."
+	},
+	"somnambulantmod: BrainFeeder": {
+		"NAME": "Brain Feeder",
+		"DESCRIPTION": "Gain !B! block. NL Whenever you are attacked this turn, add !M! Dream to your discard pile.",
+		"UPGRADE_DESCRIPTION": "Gain !B! block. NL Whenever you are attacked this turn, add !M! Dream to your discard pile."
+	},
+	"somnambulantmod: Nightmare": {
+		"NAME": "Nightmare",
+		"DESCRIPTION": "Retain. NL Apply !M! Poison.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Apply !M! Poison. NL Exhaust.",
+		"EXTENDED_DESCRIPTION": [
+			"I can't play this card."
+		]
+	},
+	"somnambulantmod: TrepanningBlow": {
+		"NAME": "Trepanning Blow",
+		"DESCRIPTION": "Deal !D! damage. NL Exhaust a card in your hand."
+	},
+	"somnambulantmod: Dream": {
+		"NAME": "Dream",
+		"DESCRIPTION": "Ethereal. NL Fill your hand with random cards. NL They cost 0 this turn.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Fill your hand with random cards. NL They cost 0 this turn.",
+		"EXTENDED_DESCRIPTION": [
+			" (Will create Ironclad cards)",
+			" (Will create Silent cards)",
+			" (Will create Defect cards)",
+			" (Will create Somnambulant cards)"
+		]
+
+	},
+	"somnambulantmod: Relive": {
+		"NAME": "Relive",
+		"DESCRIPTION": "Shuffle !M! copies into your draw pile of the next card you play this turn. NL Shuffle a Nightmare into your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Shuffle !M! copies into your draw pile of the next card you play this turn. NL Shuffle a Nightmare into your draw pile. NL Exhaust."
+	},
+	"somnambulantmod: QuickNap": {
+		"NAME": "Quick Nap",
+		"DESCRIPTION": "Draw !M! card. NL Add a Dream to your discard pile, and shuffle a Nightmare into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Add a Dream to your discard pile, and shuffle a Nightmare into your draw pile."
+	},
+	"somnambulantmod: Defend_Somnambulant": {
+		"NAME": "Defend",
+		"DESCRIPTION": "Gain !B! block."
+	},
+	"somnambulantmod: UnthoughtKnown": {
+		"NAME": "Unthought Known",
+		"DESCRIPTION": "Deal !D! damage. NL Whenevever you exhaust this card, permanently increase its damage by !M!."
+	},
+	"somnambulantmod: Reinterpret": {
+		"NAME": "Reinterpret",
+		"DESCRIPTION": "Draw !M! cards. NL Upgrade ALL cards in your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Upgrade ALL cards in your hand."
+	},
+	"somnambulantmod: Stimulus": {
+		"NAME": "Stimulus",
+		"DESCRIPTION": "Deal !D! damage. NL If the target is attacking, add a Nightmare to your draw pile.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL If the target is attacking, add a Nightmare to your draw pile and a Dream to your discard pile."
+	},
+	"somnambulantmod: DarkeningMind": {
+		"NAME": "Darkening Mind",
+		"DESCRIPTION": "Whenever you draw a Nightmare, gain !M! Strength."
+	},
+	"somnambulantmod: DeeperSleep": {
+		"NAME": "Deeper Sleep",
+		"DESCRIPTION": "Whenever you draw a Dream, gain !M! Dexterity.",
+		"UPGRADE_DESCRIPTION": "Add a Dream to your discard pile. Whenever you draw a Dream, gain !M! Dexterity."
+	},
+	"somnambulantmod: Refracture": {
+		"NAME": "Refracture",
+		"DESCRIPTION": "Whenever you exhaust a card, deal !M! damage to a random enemy."
+	},
+	"somnambulantmod: RuthlessStudy": {
+		"NAME": "Ruthless Study",
+		"DESCRIPTION": "Whenever you draw a card this turn, gain !M! Mental Barrier.",
+		"UPGRADE_DESCRIPTION": "Whenever you draw a card this turn, gain !M! Mental Barrier."
+	},
+	"somnambulantmod: MindWave": {
+		"NAME": "Mind Wave",
+		"DESCRIPTION": "Gain block equal to the number of cards in hand. NL Deal !D! damage."
+	},
+	"somnambulantmod: Amnausea": {
+		"NAME": "Amnausea",
+		"DESCRIPTION": "Exhaust ALL cards in your hand. NL Apply !M! Poison to ALL enemies for each Exhausted card. NL Exhaust."
+	},
+	"somnambulantmod: NewDawn": {
+		"NAME": "New Dawn",
+		"DESCRIPTION": "Retain. NL Exhaust your draw pile. NL Exhaust."
+	},
+	"somnambulantmod: LeechFears": {
+		"NAME": "Leech Fears",
+		"DESCRIPTION": "Apply !M! Vulnerable to ALL enemies and draw 2 cards."
+	},
+	"somnambulantmod: Stumble": {
+		"NAME": "Stumble",
+		"DESCRIPTION": "Deal !D! damage and draw 2 cards."
+	},
+	"somnambulantmod: BadIdea": {
+		"NAME": "Bad Idea",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL If you have a Nightmare in hand, also apply !M! Poison."
+	},
+	"somnambulantmod: Externalize": {
+		"NAME": "Externalize",
+		"DESCRIPTION": "Exhaust a card from your hand. Apply Poison equal to its cost.",
+		"UPGRADE_DESCRIPTION": "Exhaust a card from your hand. Apply Poison equal to its cost + 1."
+	},
+	"somnambulantmod: Nosebleed": {
+		"NAME": "Nosebleed",
+		"DESCRIPTION": "Apply !M! Poison and draw a card."
+	},
+	"somnambulantmod: Damping": {
+		"NAME": "Damping",
+		"DESCRIPTION": "Ethereal. NL All enemies lose !M! Strength. NL Gain !M! Dexterity."
+	},
+	"somnambulantmod: Overshare": {
+		"NAME": "Overshare",
+		"DESCRIPTION": "Apply !M! Poison to a random enemy. NL Repeat for each Nightmare in your hand.",
+		"EXTENDED_DESCRIPTION": [
+			" NL (You have ",
+			" Nightmare).",
+			" Nightmares)."
+			]
+	},
+	"somnambulantmod: Extract": {
+		"NAME": "Extract",
+		"DESCRIPTION": "Apply !M! Poison X times. NL Draw a card. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Apply !M! Poison X times. NL Draw X cards. NL Exhaust."
+	},
+	"somnambulantmod: Inspiration": {
+		"NAME": "Inspiration",
+		"DESCRIPTION": "Gain [G]  and draw a card for each Nightmare in your hand. Exhaust.",
+		"UPGRADE_DESCRIPTION": "Gain [G]  and draw a card for each Nightmare in your hand.",
+		"EXTENDED_DESCRIPTION": [
+			" NL (You have ",
+			" Nightmare).",
+			" Nightmares)."
+		]
+	},
+	"somnambulantmod: LayeredDefense": {
+		"NAME": "Layered Defense",
+		"DESCRIPTION": "Whenever you draw this card, add a copy of it to your hand. NL Gain !M! Mental Barrier. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Whenever you draw this card, add a copy of it to your hand. NL Gain !M! Mental Barrier. NL Exhaust."
+	},
+	"somnambulantmod: Hush": {
+		"NAME": "Hush",
+		"DESCRIPTION": "Whenever you draw this card, exhaust it and draw 2 cards. NL At the start of your turn, shuffle !M! Hush into your draw pile.",
+		"UPGRADE_DESCRIPTION": "Whenever you draw this card, exhaust it and draw !M! cards. NL At the start of your turn, shuffle 1 Hush into your draw pile.",
+
+		"OLD_DESCRIPTION": "Gain !B! block. NL Exhaust.",
+		"OLD_UPGRADE_DESCRIPTION": "Whenever you draw this card, add a copy NL of it to your hand. NL Gain !B! block. NL Exhaust."
+	},
+	"somnambulantmod: ShowerThought": {
+		"NAME": "Shower Thought",
+		"DESCRIPTION": "Deal damage equal to your Block. NL Gain !B! block.",
+		"UPGRADE_DESCRIPTION": " NL (Deals !D! damage.)"
+	},
+	"somnambulantmod: Cower": {
+		"NAME": "Cower",
+		"DESCRIPTION": "Gain !B! block. NL Apply !M! Weak to yourself."
+	},
+	"somnambulantmod: PillowFort": {
+		"NAME": "Pillow Fort",
+		"DESCRIPTION": "Ethereal. NL Gain !B! block. NL Add !M! copies of this card into your discard pile."
+	},
+	"somnambulantmod: SnuggleUp": {
+		"NAME": "Snuggle Up",
+		"DESCRIPTION": "Gain !B! block. NL Whenever you draw this card, gain !M! block."
+	},
+	"somnambulantmod: InLimbo": {
+		"NAME": "In Limbo",
+		"DESCRIPTION": "Whenever you play your fourth card in a turn, add your discard pile to the top of your draw pile in random order."
+	},
+	"somnambulantmod: SharpeningMind": {
+		"NAME": "Sharpening Mind",
+		"DESCRIPTION": "Whenever you are attacked, deal !M! damage back. NL Whenever you draw this card, increase this value by 3.",
+		"UPGRADE_DESCRIPTION": "Whenever you are attacked, deal !M! damage back. NL Whenever you draw this card, increase this value by 5."
+	},
+	"somnambulantmod: Bloom": {
+		"NAME": "Bloom",
+		"DESCRIPTION": "Discard the top !M! cards from your draw pile. NL Put a card from your discard pile into your hand.",
+		"OLD_DESCRIPTION": "Draw !M! card. NL Put a card from your discard pile on top of your draw pile."
+	},
+	"somnambulantmod: HeavyLids": {
+		"NAME": "Heavy Lids",
+		"DESCRIPTION": "Gain !B! block. NL This costs 0 if you have a Dream in hand."
+	},
+	"somnambulantmod: Harden": {
+		"NAME": "Harden",
+		"DESCRIPTION": "Draw !M! card. NL Gain block equal to the number of cards in your hand.",
+		"UPGRADE_DESCRIPTION": "Draw !M! cards. NL Gain block equal to the number of cards in your hand."
+	},
+	"somnambulantmod: SleepingBody": {
+		"NAME": "Sleeping Body",
+		"DESCRIPTION": "Whenever you draw a Dream or Nightmare, gain !M! Block."
+	},
+	"somnambulantmod: NightHaunts": {
+		"NAME": "Night Haunts",
+		"DESCRIPTION": "Deal !D! damage. NL Whenever you exhaust a card this turn, apply !M! poison. NL Exhaust."
+	},
+	"somnambulantmod: Ignorance": {
+		"NAME": "Ignorance",
+		"DESCRIPTION": "Whenever you exhaust a card this turn, NL gain [G]. NL You cannot draw additional cards this turn. NL Exhaust."
+	},
+	"somnambulantmod: Reject": {
+		"NAME": "Reject",
+		"DESCRIPTION": "Retain. NL Exhaust ALL Nightmares in your hand. Gain !B! block for each card exhausted this way. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Exhaust ALL Nightmares in your hand. Gain !B! block for each card exhausted this way."
+	},
+	"somnambulantmod: Unburden": {
+		"NAME": "Unburden",
+		"DESCRIPTION": "Exhaust ALL Nightmares in your hand. Gain 1 Dexterity for each Nightmare exhausted.",
+		"UPGRADE_DESCRIPTION": "Retain. NL Exhaust ALL Nightmares in your hand. Gain 1 Dexterity for each Nightmare exhausted.",
+		"OLD_DESCRIPTION": "Exhaust ALL Nightmares in your hand and create that many random attacks. They cost 0 this turn. NL Exhaust.",
+		"OLD_UPGRADE_DESCRIPTION": "Retain. NL Exhaust ALL Nightmares in your hand and create that many random attacks. They cost 0 this turn. NL Exhaust."
+	},
+	"somnambulantmod: Unknow": {
+		"NAME": "Unknow",
+		"DESCRIPTION": "Gain !B! block. Discard !M! cards at random."
+	},
+	"somnambulantmod: AllForNothing": {
+		"NAME": "All For Nothing",
+		"DESCRIPTION": "Retain. NL Exhaust your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Retain. Exhaust your hand, then draw a card. NL Exhaust."
+	},
+	"somnambulantmod: Narcolepsy": {
+		"NAME": "Narcolepsy",
+		"DESCRIPTION": "Ethereal. NL Stun an enemy. Add !M! Nightmares to your draw pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Stun an enemy. Add !M! Nightmares to your draw pile. NL Exhaust."
+	},
+	"somnambulantmod: Blink": {
+		"NAME": "Blink",
+		"DESCRIPTION": "Ethereal. NL Add !M! Dream to your discard pile.",
+		"UPGRADE_DESCRIPTION": "Ethereal. NL Add !M! Dreams to your discard pile."
+	},
+	"somnambulantmod: Withdraw": {
+		"NAME": "Withdraw",
+		"DESCRIPTION": "Gain !M! Mental Barrier. Whenever you draw this card, draw a card.  NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Gain !M! Mental Barrier X times. Whenever you draw this card, draw a card. "
+	},
+	"somnambulantmod: Pinch": {
+		"NAME": "Pinch",
+		"DESCRIPTION": "Deal !D! damage !M! times."
+	},
+	"somnambulantmod: SickeningSwathe": {
+		"NAME": "Sickening Swathe",
+		"DESCRIPTION": "Apply !M! Poison to ALL enemies. NL Shuffle a Nightmare into your draw pile."
+	},
+	"somnambulantmod: Sleepyhead": {
+		"NAME": "Sleepyhead",
+		"DESCRIPTION": "Enemy loses !M! Strength this turn."
+	},
+	"somnambulantmod: Lucidity": {
+		"NAME": "Lucidity",
+		"DESCRIPTION": "At the end of your turn, add !M! Dream to your discard pile. All cards exhaust when played."
+	},
+	"somnambulantmod: Overcome": {
+		"NAME": "Overcome",
+		"DESCRIPTION": "Heal !M! HP. NL Discard ALL Nightmares from your hand. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Heal !M! HP. NL Exhaust ALL Nightmares from your hand. NL Exhaust."
+	},
+	"somnambulantmod: DreamBig": {
+		"NAME": "Dream Big",
+		"DESCRIPTION": "Add X Dreams to your discard pile. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Add X Dreams to your discard pile 2 times. NL Exhaust."
+	},
+	"somnambulantmod: MuscleMemory": {
+		"NAME": "Muscle Memory",
+		"DESCRIPTION": "Ethereal. Exhaust a card in your hand. Gain !M! Strength."
+	},
+	"somnambulantmod: SleepParalysis": {
+		"NAME": "Sleep Paralysis",
+		"DESCRIPTION": "Add a Dream and Nightmare to your hand. Apply !M! Vulnerable to yourself. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Add an upgraded Dream and Nightmare to your hand. Apply !M! Vulnerable to yourself. NL Exhaust."
+	},
+	"somnambulantmod: Wake": {
+		"NAME": "Wake",
+		"DESCRIPTION": "Exhaust ALL Nightmares and Dreams from your hand and draw pile. Draw a card for each card exhausted. NL Exhaust.",
+		"UPGRADE_DESCRIPTION": "Exhaust ALL Nightmares from your hand and draw pile. Draw a card for each card exhausted. NL Exhaust."
+	},
+	"somnambulantmod: Unmake": {
+		"NAME": "Unmake",
+		"DESCRIPTION": "Deal !D! damage to ALL enemies. NL Add your discard pile to the top of your draw pile in random order."
+	},
+	"somnambulantmod: LightSleeper": {
+		"NAME": "Light Sleeper",
+		"DESCRIPTION": "Dreams and Nightmares cost 1 less.",
+		"UPGRADE_DESCRIPTION": "Dreams and Nightmares cost 1 less. NL Add a Dream to your discard pile."
+	},
+	"somnambulantmod: GnarledSwing": {
+		"NAME": "Gnarled Swing",
+		"DESCRIPTION": "Deal !D! damage. NL This costs 1 if you have a Nightmare in hand."
+	},
+	"somnambulantmod: MaterializedGlimpse": {
+		"NAME": "Materialized Glimpse",
+		"DESCRIPTION": "Deal !D! damage to a random enemy. NL Repeat for each Nightmare in your hand."
+	},
+	"somnambulantmod: LostMind": {
+		"NAME": "Lost Mind",
+		"DESCRIPTION": "At the start of your turn, gain [G] and add a Nightmare to your draw pile."
+	},
+	"somnambulantmod: HeadSmack": {
+		"NAME": "Head Smack",
+		"DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable."
+	},
+	"somnambulantmod: LoseForm": {
+		"NAME": "Lose Form",
+		"DESCRIPTION": "At the start of your turn, play a random card from your discard pile and exhaust it.",
+		"UPGRADE_DESCRIPTION": "At the start of your turn, play a card from your discard pile and exhaust it."
+	},
+	"somnambulantmod: ShimmeringVeil": {
+		"NAME": "Shimmering Veil",
+		"DESCRIPTION": "Block is not removed at the start of your next !M! turns."
+	},
+	"somnambulantmod: ImpenetrableMind": {
+		"NAME": "Impenetrable Mind",
+		"DESCRIPTION": "Ethereal. NL Whenever you draw a card, gain !M! block."
+	},
+	"somnambulantmod: Mindlessness": {
+		"NAME": "Mindlessness",
+		"DESCRIPTION": "Whenever you exhaust a card, add a random attack to your hand."
+	},
+	"somnambulantmod: GalaxyBrain": {
+		"NAME": "Galaxy Brain",
+		"DESCRIPTION": "Whenever you play a Dream, exhaust ALL cards in your hand."
+	},
+
+
+	"somnambulantmod: PrimingPunch": {
+		"NAME": "Priming Punch",
+		"DESCRIPTION": "Deal !D! damage. NL Upgrade a random card in your hand.",
+		"UPGRADE_DESCRIPTION": "Deal !D! damage. NL Upgrade a card in your hand."
+	}
+}
