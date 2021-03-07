@@ -31,7 +31,7 @@
         "NAME": "Memoir of Another",
         "FLAVOR": "Proper literature for a dream out of bounds.",
         "DESCRIPTIONS": [
-            "Whenever you rest, you may add a card of another color to your deck. If you have a 'Dream Catcher', add a Somnambulant card to the options and upgrade them."
+            "Позволяет добавлять карты другого цвета в колоду при #yОтдыхе в лагере. Если у вас есть 'Ловец снов', добавляет карту Сомнабуланта к выбору и улучшает карты в выборе."
         ]
     },
     "somnambulantmod: MemoryHouse": {
@@ -45,28 +45,28 @@
         "NAME": "Sleeping Pills",
         "FLAVOR": "To build a cavernous mind.",
         "DESCRIPTIONS": [
-            "Cards created from Dreams cost 0 until end of combat."
+            "Карты, добавленные *Сном, стоят #b0 до конца боя."
         ]
     },
     "somnambulantmod: RunicStrip": {
         "NAME": "Runic Strip",
         "FLAVOR": "Infinite objects can be somewhat tiring.",
         "DESCRIPTIONS": [
-            "Whenever an enemy gains strength, gain 3 Mental Barrier."
+            "Дает 3 #yМентального #yБарьера, когда враг получает #yСилу."
         ]
     },
     "somnambulantmod: CiphersPen": {
         "NAME": "Cipher's Pen",
         "FLAVOR": "The pen writes its meaning true.",
         "DESCRIPTIONS": [
-            "Whenever you create a Dream or Nightmare, upgrade it."
+            "#rСны и #rКошмары автоматически #yУлучшаются."
         ]
     },
     "somnambulantmod: PrivatePocket": {
         "NAME": "Private Pocket",
         "FLAVOR": "Everyone has the right to their private pocket.",
         "DESCRIPTIONS": [
-            "Whenever a card is exhausted, gain 1 Mental Barrier."
+            "Дает 1 #yМентального #yБарьера. когда #yСжигается карта."
         ]
     }
 }

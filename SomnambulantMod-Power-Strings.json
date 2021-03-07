@@ -16,7 +16,7 @@
         ]
     },
     "somnambulantmod: DarkeningMindPower": {
-        "NAME": "Darkening Mind",
+        "NAME": "Меркнущий рассудок",
         "DESCRIPTIONS": [
             "Даёт #b",
             " Силы, когда вы берёте *Кошмар."
@@ -26,130 +26,130 @@
         "NAME": "Тсс!",
         "DESCRIPTIONS": [
             "Добавляет #b",
-            " Тсс! в стопку добора в начале каждого вашего хода."
+            " Тсс! в стопку добора в начале вашего хода."
         ]
     },
     "somnambulantmod: ImpenetrableMindPower": {
-        "NAME": "Impenetrable Mind",
+        "NAME": "Непроницаемый рассудок",
         "DESCRIPTIONS": [
             "Даёт #b",
-            " защиты, когда вы берёте карту."
+            " #yЗащиты, когда вы берёте карту."
         ]
     },
     "somnambulantmod: MentalBarrierPower": {
-        "NAME": "Mental Barrier",
+        "NAME": "Ментальный Барьер",
         "DESCRIPTIONS": [
-            "At the end of your turn, gain #b",
-            " block, then reduce #yMental #yBarrier by #b1. Whenever you take attack damage, lower your Mental Barrier by that amount."
+            "Дает #b",
+            " #yЗащиты в конце вашего хода, после чего #Ментальный #yБарьер уменьшится на #b1. Когда вы получаете урон от вражеских атак, #yМентальный #yБарьер уменьшается на количество урона."
         ]
     },
     "somnambulantmod: InLimboPower": {
-        "NAME": "In Limbo",
+        "NAME": "В лимбо",
         "DESCRIPTIONS": [
-            "Whenever you play your #b4th card in a turn, add your discard pile to the top of your draw pile in random order "
+            "Кладёт стопку сброса на верх стопки добора в случайном порядке, когда вы разыгрываете 4 карты в одном ходу."
         ]
     },
     "somnambulantmod: LoseFormPower": {
-        "NAME": "Lose Form",
+        "NAME": "Облик забвения",
         "DESCRIPTIONS": [
-            "At the start of your turn, play a card from your discard pile and exhaust it."
+            "Вы разыгрываете карту из стопки сброса и Сжигаете её в начале каждого вашего хода."
         ]
     },
     "somnambulantmod: LoseFormRandomPower": {
-        "NAME": "Lose Form (random)",
+        "NAME": "Облик забвения (случайный)",
         "DESCRIPTIONS": [
-            "At the start of your turn, play a random card from your discard pile and exhaust it."
+            "Вы разыгрываете случ. карту из стопки сброса и Сжигаете её в начале каждого вашего хода."
         ]
     },
     "somnambulantmod: DeeperSleepPower": {
-        "NAME": "Deeper Sleep",
+        "NAME": "Углубленный сон",
         "DESCRIPTIONS": [
-            "Whenever you draw a Dream, gain #b",
-            " Dexterity."
+            "Дает #b",
+            " #yЛовкости, когда вы берёте #rСон.."
         ]
     },
     "somnambulantmod: LucidityPower": {
-        "NAME": "Lucidity",
+        "NAME": "Осознанность",
         "DESCRIPTIONS": [
-            "At the end of your turn, add #b",
-            " Dream(s) to your discard pile. All cards exhaust when played."
+            "Добавляет #b",
+            " #rСон(ов) в стопку сброса в конце вашего хода. Каждая разгрываемая карта #yСжигается."
         ]
     },
     "somnambulantmod: SleepingBodyPower": {
-        "NAME": "Sleeping Body",
+        "NAME": "Спящее тело",
         "DESCRIPTIONS": [
-            "Whenever you draw a Dream or Nightmare, gain #b",
-            " Block."
+            "Дает #b",
+            " #yЗащиты, когда вы берёте #rСон или #rКошмар."
         ]
     },
     "somnambulantmod: RelivePower": {
-        "NAME": "Relive",
+        "NAME": "Воспроизведение",
         "DESCRIPTIONS": [
-            "Shuffle #b",
-            " copies of the next card you play this turn into your draw pile."
+            "Добавляет #b",
+            " копии след. разыгранной в этом ходу карты в стопку добора."
         ]
     },
     "somnambulantmod: RefracturePower": {
-        "NAME": "Refracture",
+        "NAME": "Рефрактура",
         "DESCRIPTIONS": [
-            "Whenever you exhaust a card, deal #b",
-            " damage to a random enemy."
+            "Наносит #b",
+            " урона случ. врагу, когда #yСжигается карта."
         ]
     },
     "somnambulantmod: IgnorancePower": {
-        "NAME": "Ignorance",
+        "NAME": "Неведение",
         "DESCRIPTIONS": [
-            "Whenever you exhaust a card this turn, gain #b",
-            " energy."
+            "Дает #b",
+            " энергии, когда вы #yСжигаете карту в этом ходу."
         ]
     },
     "somnambulantmod: LightSleeperPower": {
-        "NAME": "Light Sleeper",
+        "NAME": "Чуткий сон",
         "DESCRIPTIONS": [
-            "Dreams and Nightmares cost #b",
-            " less."
+            "#rСны и #rКошмары стоят на #b",
+            " меньше."
         ]
     },
     "somnambulantmod: RuthlessStudyPower": {
-        "NAME": "Ruthless Study",
+        "NAME": "Беспощадное обучение",
         "DESCRIPTIONS": [
-            "Until end of turn, whenever you draw a card, gain #b",
-            " Mental Barrier."
+            "Дает #b",
+            " Ментального Барьера, когда вы берёте карту в этом ходу."
         ]
     },
     "somnambulantmod: LostMindPower": {
-        "NAME": "Lost Mind",
+        "NAME": "Потерянный рассудок",
         "DESCRIPTIONS": [
-            "At the start of your turn, gain #b",
-            " energy and add #b",
-            " Nightmare to your draw pile."
+            "Дает #b",
+            " энергии и добавляет #b",
+            " #rКошмар(а) в стопку добора в начале каждого вашего хода.."
         ]
     },
     "somnambulantmod: GalaxyBrainPower": {
-        "NAME": "Galaxy Brain",
+        "NAME": "Галактический мозг",
         "DESCRIPTIONS": [
-            "Whenever you play a Dream, exhaust all cards in your hand."
+            "#yСжигает ВСЕ карты в руке, когда вы разыгрывавете #rСон."
         ]
     },
     "somnambulantmod: MindlessnessPower": {
-        "NAME": "Mindlessness",
+        "NAME": "Безмозглость",
         "DESCRIPTIONS": [
-            "Whenever you exhaust a card, add #b",
-            " random attack(s) to your hand."
+            "Добавляет #b",
+            " случ. атаку(м) в руку, когда #yСжигается карта."
         ]
     },
     "somnambulantmod: NightHauntsPower": {
-        "NAME": "Haunted",
+        "NAME": "Ночные призраки",
         "DESCRIPTIONS": [
-            "Whenever you exhaust a card this turn, apply #b",
-            " poison."
+            "Накладывает #b",
+            " #yЯда, когда карта #yСжигается в этом ходу."
         ]
     },
     "somnambulantmod: BrainFeederPower": {
-        "NAME": "Brain Feeder",
+        "NAME": "Мозговыедатель",
         "DESCRIPTIONS": [
-            "When attacked, add #b",
-            " Dream(s) to your discard pile."
+            "Добавляет #b",
+            " #rСон(ов) в стопку сброса в ответ на каждую атаку в этом ходу."
         ]
     }
 }
