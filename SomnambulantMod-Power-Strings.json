@@ -18,22 +18,22 @@
     "somnambulantmod: DarkeningMindPower": {
         "NAME": "Darkening Mind",
         "DESCRIPTIONS": [
-            "Whenever you draw a Nightmare, gain #b",
-            " Strength."
+            "Даёт #b",
+            " Силы, когда вы берёте *Кошмар."
         ]
     },
     "somnambulantmod: HushPower": {
-        "NAME": "Hush",
+        "NAME": "Тсс!",
         "DESCRIPTIONS": [
-            "At the start of your turn, shuffle #b",
-            " Hush into your draw pile."
+            "Добавляет #b",
+            " Тсс! в стопку добора в начале каждого вашего хода."
         ]
     },
     "somnambulantmod: ImpenetrableMindPower": {
         "NAME": "Impenetrable Mind",
         "DESCRIPTIONS": [
-            "Whenever you draw a card, gain #b",
-            " block."
+            "Даёт #b",
+            " защиты, когда вы берёте карту."
         ]
     },
     "somnambulantmod: MentalBarrierPower": {

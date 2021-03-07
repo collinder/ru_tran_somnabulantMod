@@ -1,395 +1,395 @@
 {
     "somnambulantmod: SomnambulantStrike": {
-        "NAME": "Strike",
+        "NAME": "Удар",
         "DESCRIPTION": "Наносит !D! урона."
     },
     "somnambulantmod: Trauma": {
-        "NAME": "Trauma",
-        "DESCRIPTION": "Наносит !D! урона. NL Добавляет a Nightmare into your добора pile."
+        "NAME": "Травма",
+        "DESCRIPTION": "Наносит !D! урона. NL Добавляет *Кошмар в стопку добора."
     },
     "somnambulantmod: OpeningUp": {
-        "NAME": "Opening Up",
-        "DESCRIPTION": "Наносит !D! урона. NL Whenever you добора this card, Добавляет a Nightmare into your добора pile."
+        "NAME": "Открыться",
+        "DESCRIPTION": "Наносит !D! урона. NL Добавляет *Кошмар в стопку добора, когда берёте эту карту."
     },
     "somnambulantmod: Bruise": {
-        "NAME": "Bruise",
-        "DESCRIPTION": "Наносит !D! урона and Накладывает !M! Weak to ВСЕМ врагам."
+        "NAME": "Ушибить",
+        "DESCRIPTION": "Наносит !D! урона NL Накладывает !M! Слабости на ВСЕХ врагов."
     },
     "somnambulantmod: PourItOut": {
-        "NAME": "Pour It Out",
-        "DESCRIPTION": "Эфирная. NL Наносит !D! урона for each card played this turn.",
-        "UPGRADE_DESCRIPTION": "NL Наносит !D! урона for each card played this turn.",
+        "NAME": "Излить душу",
+        "DESCRIPTION": "Эфирная. NL Наносит !D! урона за каждую разыгранную в этом ходу карту.",
+        "UPGRADE_DESCRIPTION": "NL Наносит !D! урона за каждую разыгранную в этом ходу карту.",
         "EXTENDED_DESCRIPTION": [
-            " NL (You have played ",
-            " card this turn).",
-            " cards this turn)."
+            " NL (Вы разыграли ",
+            " карту в этом ходу).",
+            " карт в этом ходу)."
         ]
     },
     "somnambulantmod: NightmareFuel": {
-        "NAME": "Nightmare Fuel",
-        "DESCRIPTION": "Наносит !D! урона to ВСЕМ врагам X times. NL Добавляет X Nightmares into your добора pile."
+        "NAME": "Топливо для кошмара",
+        "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам X раз. NL Добавляет X *Кошмаров в стопку добора."
     },
     "somnambulantmod: RecurringDream": {
-        "NAME": "Recurring Dream",
-        "DESCRIPTION": "Наносит !D! урона. Добавляет a copy of this card into your добора pile. NL Add a Dazed to your hand. Сжигается."
+        "NAME": "Повторяющийся сон",
+        "DESCRIPTION": "Наносит !D! урона. NL Добавляет свою копию в стопку добора. NL Добавляет *Головокружение в руку. Сжигается."
     },
     "somnambulantmod: ViralIdea": {
-        "NAME": "Viral Idea",
-        "DESCRIPTION": "Whenever you добора this card, add 2 копии of it to your hand. NL Наносит !D! урона to ВСЕМ врагам. NL Сжигается."
+        "NAME": "Вирусная идея",
+        "DESCRIPTION": "Добавляет 2 свои копии в руку, когда берёте эту карту. NL Наносит !D! урона ВСЕМ врагам. NL Сжигается."
     },
     "somnambulantmod: RacingThoughts": {
-        "NAME": "Racing Thoughts",
-        "DESCRIPTION": "Наносит !D! урона. Whenever you добора this card, increase its урона by !M!."
+        "NAME": "Поймать мысль",
+        "DESCRIPTION": "Наносит !D! урона. NL Урон наносимый этой картой, повышается на !M! в этом бою, когда вы берёте эту карту."
     },
     "somnambulantmod: Repression": {
-        "NAME": "Repression",
-        "DESCRIPTION": "Дает !B! Защиты. NL сброса !M! card from your добора pile.",
-        "UPGRADE_DESCRIPTION": "Дает !B! Защиты. NL сброса !M! cards from your добора pile."
+        "NAME": "Подавление",
+        "DESCRIPTION": "Дает !B! Защиты. NL Вы сбрасываете !M! карты из стопки добора.",
+        "UPGRADE_DESCRIPTION": "Дает !B! Защиты. NL Вы сбрасываете !M! карты из стопки добора."
     },
     "somnambulantmod: Remember": {
-        "NAME": "Remember",
-        "DESCRIPTION": "Наносит !D! урона. NL Put a card from your Сжигается pile on top of your добора pile. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Put a card from your Сжигается pile on top of your добора pile. NL Сжигается."
+        "NAME": "Запомнить",
+        "DESCRIPTION": "Наносит !D! урона. NL Вы кладёте выбранную Сожжённую карту на верх стопки добора. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Вы кладёте выбранную Сожжённую карту на верх стопки добора. NL Сжигается."
     },
     "somnambulantmod: HorrificThought": {
-        "NAME": "Horrific Thought",
-        "DESCRIPTION": "добора !M! cards. NL Добавляет 2 Nightmares into your добора pile. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "добора !M! cards. NL Добавляет 2 Nightmares into your добора pile."
+        "NAME": "Ужасающая мысль",
+        "DESCRIPTION": "Вы берёте !M! карты. NL Добавляет 2 *Кошмара в стопку добора. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Вы берёте !M! карты. NL Добавляет 2 *Кошмара в стопку добора."
     },
     "somnambulantmod: TimeCompression": {
-        "NAME": "Time Compression",
-        "DESCRIPTION": "Наносит !D! урона. NL Дает [G] for each Nightmare in your hand. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Дает [G] for each Nightmare in your hand."
+        "NAME": "Сжатие временм",
+        "DESCRIPTION": "Наносит !D! урона. NL Дает [G] за каждый *Кошмар в руке. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Дает [G] за каждый *Кошмар в руке."
     },
     "somnambulantmod: HappyThoughts": {
-        "NAME": "Happy Thoughts",
-        "DESCRIPTION": "Накладывает !M! Weak. NL сброса a card.",
-        "UPGRADE_DESCRIPTION": "Накладывает !M! Weak. NL сброса a card."
+        "NAME": "Счастливые мысли",
+        "DESCRIPTION": "Накладывает !M! Слабости. NL Вы сбрасываете 1 карту.",
+        "UPGRADE_DESCRIPTION": "Накладывает !M! Слабости. NL Вы сбрасыаете 1 карту."
     },
     "somnambulantmod: BrainFeeder": {
-        "NAME": "Brain Feeder",
-        "DESCRIPTION": "Дает !B! Защиты. NL Whenever you are attacked this turn, add !M! Dream to your сброса pile.",
-        "UPGRADE_DESCRIPTION": "Дает !B! Защиты. NL Whenever you are attacked this turn, add !M! Dream to your сброса pile."
+        "NAME": "Мозговыедатель",
+        "DESCRIPTION": "Дает !B! Защиты. NL Добавляет !M! *Сон в стопку сброса в ответ на каждую атаку в этом ходу.",
+        "UPGRADE_DESCRIPTION": "Дает !B! Защиты. NL Добавляет !M! *Сон в стопку сброса в ответ на каждую атаку в этом ходу."
     },
     "somnambulantmod: Nightmare": {
-        "NAME": "Nightmare",
+        "NAME": "Кошмар",
         "DESCRIPTION": "Оставляется. NL Накладывает !M! Яда.",
         "UPGRADE_DESCRIPTION": "Оставляется. NL Накладывает !M! Яда. NL Сжигается.",
         "EXTENDED_DESCRIPTION": [
-            "I can't play this card."
+            "Я не могу разыграть эту карту."
         ]
     },
     "somnambulantmod: TrepanningBlow": {
-        "NAME": "Trepanning Blow",
-        "DESCRIPTION": "Наносит !D! урона. NL Сжигается a card in your hand."
+        "NAME": "Трепанировать",
+        "DESCRIPTION": "Наносит !D! урона. NL Сжигает карту в руке."
     },
     "somnambulantmod: Dream": {
-        "NAME": "Dream",
-        "DESCRIPTION": "Эфирная. NL Fill your hand with random cards. NL They cost 0 this turn.",
-        "UPGRADE_DESCRIPTION": "Оставляется. NL Fill your hand with random cards. NL They cost 0 this turn.",
+        "NAME": "Сон",
+        "DESCRIPTION": "Эфирная. NL Заполняет руку случ. картами. NL В этом ходу они стоят 0.",
+        "UPGRADE_DESCRIPTION": "Оставляется. NL Заполняет руку случ. картами. NL В этом ходу они стоят 0.",
         "EXTENDED_DESCRIPTION": [
-            " (Will create Ironclad cards)",
-            " (Will create Silent cards)",
-            " (Will create Defect cards)",
-            " (Will create Somnambulant cards)"
+            " (Создаст карты Латоносца)",
+            " (Создаст карты Безмолвной)",
+            " (Создаст карты Дефекта)",
+            " (Создаст карты Сомны)"
         ]
     },
     "somnambulantmod: Relive": {
-        "NAME": "Relive",
-        "DESCRIPTION": "Добавляет !M! копии into your добора pile of the next card you play this turn. NL Добавляет a Nightmare into your добора pile. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Добавляет !M! копии into your добора pile of the next card you play this turn. NL Добавляет a Nightmare into your добора pile. NL Сжигается."
+        "NAME": "Воспроизведение",
+        "DESCRIPTION": "Добавляет !M! копии след. разыгранной в этом ходу карты в стопку добора. NL Добавляет Кошмар в стопку добора. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Добавляет !M! копии след. разыгранной в этом ходу карты в стопку добора. NL Добавляет Кошмар в стопку добора. NL Сжигается."
     },
     "somnambulantmod: QuickNap": {
-        "NAME": "Quick Nap",
-        "DESCRIPTION": "добора !M! card. NL Add a Dream to your сброса pile, and Добавляет a Nightmare into your добора pile.",
-        "UPGRADE_DESCRIPTION": "добора !M! cards. NL Add a Dream to your сброса pile, and Добавляет a Nightmare into your добора pile."
+        "NAME": "Ненадолго задремать",
+        "DESCRIPTION": "Вы берёте !M! карт. NL Добавляет *Сон в стопку сброса. NL Добавляет Кошмар в стопку добора.",
+        "UPGRADE_DESCRIPTION": "Вы берёте !M! карт. NL Добавляет *Сон в стопку сброса. NL Добавляет *Кошмар в стопку добора."
     },
     "somnambulantmod: Defend_Somnambulant": {
-        "NAME": "Defend",
+        "NAME": "Оборона",
         "DESCRIPTION": "Дает !B! Защиты."
     },
     "somnambulantmod: UnthoughtKnown": {
-        "NAME": "Unthought Known",
-        "DESCRIPTION": "Наносит !D! урона. NL Whenevever you Сжигается this card, permanently increase its урона by !M!."
+        "NAME": "Неосознанное знание",
+        "DESCRIPTION": "Наносит !D! урона. NL Навсегда повышает свой урон на !M!, когда Сжигается."
     },
     "somnambulantmod: Reinterpret": {
-        "NAME": "Reinterpret",
-        "DESCRIPTION": "добора !M! cards. NL Upgrade ВСЕМ cards in your hand. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "добора !M! cards. NL Upgrade ВСЕМ cards in your hand."
+        "NAME": "Переосмыслить",
+        "DESCRIPTION": "Вы берёте !M! карты. NL Улучшает ВСЕ карты в руке до конца боя. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Вы берёте !M! карты. NL Улучшает ВСЕ карты в руке до конца боя."
     },
     "somnambulantmod: Stimulus": {
-        "NAME": "Stimulus",
-        "DESCRIPTION": "Наносит !D! урона. NL If the target is attacking, add a Nightmare to your добора pile.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL If the target is attacking, add a Nightmare to your добора pile and a Dream to your сброса pile."
+        "NAME": "Стимул",
+        "DESCRIPTION": "Наносит !D! урона. NL Добавляет *Кошмар в стопку добора, если выбранный враг намеревается атаковать.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Добавляет *Кошмар в стопку добора и *Сон в стопку сброса, если выбранный враг намеревается атаковать."
     },
     "somnambulantmod: DarkeningMind": {
-        "NAME": "Darkening Mind",
-        "DESCRIPTION": "Whenever you добора a Nightmare, Дает !M! Силы."
+        "NAME": "Меркнущий рассудок",
+        "DESCRIPTION": "Даёт !M! Силы, когда вы берёте Кошмар."
     },
     "somnambulantmod: DeeperSleep": {
-        "NAME": "Deeper Sleep",
-        "DESCRIPTION": "Whenever you добора a Dream, Дает !M! Ловкости.",
-        "UPGRADE_DESCRIPTION": "Add a Dream to your сброса pile. Whenever you добора a Dream, Дает !M! Ловкости."
+        "NAME": "Углубленный сон",
+        "DESCRIPTION": "Дает !M! Ловкости, когда вы берёте *Сон.",
+        "UPGRADE_DESCRIPTION": "Добавляет *Сон в стопку сброса. NL Дает !M! Ловкости, когда вы берёте *Сон."
     },
     "somnambulantmod: Refracture": {
-        "NAME": "Refracture",
-        "DESCRIPTION": "Whenever you Сжигается a card, Наносит !M! урона to a random врагу."
+        "NAME": "Рефрактура",
+        "DESCRIPTION": "Наносит !M! урона случ. врагу, когда Сжигается карта."
     },
     "somnambulantmod: RuthlessStudy": {
-        "NAME": "Ruthless Study",
-        "DESCRIPTION": "Whenever you добора a card this turn, Дает !M! Mental Barrier.",
-        "UPGRADE_DESCRIPTION": "Whenever you добора a card this turn, Дает !M! Mental Barrier."
+        "NAME": "Беспощадное обучение",
+        "DESCRIPTION": "Дает !M! Ментального Барьера, когда вы берёте карту в этом ходу.",
+        "UPGRADE_DESCRIPTION": "Дает !M! Ментального Барьера, когда вы берёте карту в этом ходу."
     },
     "somnambulantmod: MindWave": {
-        "NAME": "Mind Wave",
-        "DESCRIPTION": "Дает Защиты equal to the number of cards in hand. NL Наносит !D! урона."
+        "NAME": "Психическая волна",
+        "DESCRIPTION": "Дает 1 Защиты за каждую карту в руке. NL Наносит !D! урона."
     },
     "somnambulantmod: Amnausea": {
-        "NAME": "Amnausea",
-        "DESCRIPTION": "Сжигается ВСЕМ cards in your hand. NL Накладывает !M! Яда to ВСЕМ врагам for each Exhausted card. NL Сжигается."
+        "NAME": "Амнезия",
+        "DESCRIPTION": "Сжигает все карты в руке. NL Накладывает !M! Яда на ВСЕХ врагов за каждую сожженную карту. NL Сжигается."
     },
     "somnambulantmod: NewDawn": {
-        "NAME": "New Dawn",
-        "DESCRIPTION": "Оставляется. NL Сжигается your добора pile. NL Сжигается."
+        "NAME": "Свежее начало",
+        "DESCRIPTION": "Оставляется. NL Сжигает стопку добора. NL Сжигается."
     },
     "somnambulantmod: LeechFears": {
-        "NAME": "Leech Fears",
-        "DESCRIPTION": "Накладывает !M! Vulnerable to ВСЕМ врагам and добора 2 cards."
+        "NAME": "Высосать страхи",
+        "DESCRIPTION": "Накладывает !M! Уязвимости на ВСЕХ врагов. NL Вы берёте 2 карты."
     },
     "somnambulantmod: Stumble": {
-        "NAME": "Stumble",
-        "DESCRIPTION": "Наносит !D! урона NL Вы берёте 2 карты."
+        "NAME": "Замяться",
+        "DESCRIPTION": "Наносит !D! урона. NL Вы берёте 2 карты."
     },
     "somnambulantmod: BadIdea": {
         "NAME": "Ужасная идея",
-        "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL If you have a Nightmare in hand, also Накладывает !M! Яда."
+        "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL  Накладывает !M! Яда, если в руке есть *Кошмар."
     },
     "somnambulantmod: Externalize": {
-        "NAME": "Externalize",
-        "DESCRIPTION": "Сжигается a card from your hand. Накладывает Яда equal to its cost.",
-        "UPGRADE_DESCRIPTION": "Сжигается a card from your hand. Накладывает Яда equal to its cost + 1."
+        "NAME": "Воплотить",
+        "DESCRIPTION": "Сжигает карту в руке. NL Накладывает Яд, равный цене сожженой карты.",
+        "UPGRADE_DESCRIPTION": "Сжигает карту в руке. NL Накладывает Яд, равный цене сожженой карты + 1."
     },
     "somnambulantmod: Nosebleed": {
-        "NAME": "Nosebleed",
-        "DESCRIPTION": "Накладывает !M! Яда and добора a card."
+        "NAME": "Кровь из носа",
+        "DESCRIPTION": "Накладывает !M! Яда. NL Вы берёте 1 карту."
     },
     "somnambulantmod: Damping": {
-        "NAME": "Damping",
+        "NAME": "Затухание",
         "DESCRIPTION": "Эфирная. NL ВСЕ враги теряют !M! Силы. NL Дает !M! Ловкости."
     },
     "somnambulantmod: Overshare": {
-        "NAME": "Overshare",
-        "DESCRIPTION": "Накладывает !M! Яда to a random врагу. NL Repeat for each Nightmare in your hand.",
+        "NAME": "Перебор",
+        "DESCRIPTION": "Накладывает !M! Яда на случ. врага. NL Повторяет за каждый *Кошмар в руке.",
         "EXTENDED_DESCRIPTION": [
-            " NL (You have ",
-            " Nightmare).",
-            " Nightmares)."
+            " NL (В руке ",
+            " Кошмар).",
+            " Кошмаров)."
         ]
     },
     "somnambulantmod: Extract": {
-        "NAME": "Extract",
-        "DESCRIPTION": "Накладывает !M! Яда X times. NL добора a card. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Накладывает !M! Яда X times. NL добора X cards. NL Сжигается."
+        "NAME": "Экстракт",
+        "DESCRIPTION": "Накладывает !M! Яда X раз. NL Вы берёте 1 карту. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Накладывает !M! Яда X раз. NL Вы берёте X карт. NL Сжигается."
     },
     "somnambulantmod: Inspiration": {
-        "NAME": "Inspiration",
-        "DESCRIPTION": "Дает [G]  and добора a card for each Nightmare in your hand. Сжигается.",
-        "UPGRADE_DESCRIPTION": "Дает [G]  and добора a card for each Nightmare in your hand.",
+        "NAME": "Вдохновение",
+        "DESCRIPTION": "Дает [G]  NL Вы берёте карту за каждый *Кошмар в руке. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Дает [G]  NL Вы берёте карту за каждый *Кошмар в руке.",
         "EXTENDED_DESCRIPTION": [
-            " NL (You have ",
-            " Nightmare).",
-            " Nightmares)."
+            " NL (В руке ",
+            " Кошмар).",
+            " Кошмаров)."
         ]
     },
     "somnambulantmod: LayeredDefense": {
-        "NAME": "Layered Defense",
-        "DESCRIPTION": "Whenever you добора this card, add a copy of it to your hand. NL Дает !M! Mental Barrier. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Whenever you добора this card, add a copy of it to your hand. NL Дает !M! Mental Barrier. NL Сжигается."
+        "NAME": "Многослойная оборона",
+        "DESCRIPTION": "Добавляет свою копию в руку, когда вы берёте эту карту. NL Дает !M! Ментального барьера. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Добавляет свою копию в руку, когда вы берёте эту карту. NL Дает !M! Ментального барьера. NL Сжигается."
     },
     "somnambulantmod: Hush": {
-        "NAME": "Hush",
-        "DESCRIPTION": "Whenever you добора this card, Сжигается it and добора 2 cards. NL At the start of your turn, Добавляет !M! Hush into your добора pile.",
-        "UPGRADE_DESCRIPTION": "Whenever you добора this card, Сжигается it and добора !M! cards. NL At the start of your turn, Добавляет 1 Hush into your добора pile.",
+        "NAME": "Тсс",
+        "DESCRIPTION": "Вы берёте 2 карты и Сжигаете эту карту, когда берёте эту карту. NL Добавляет !M! Тсс в стопку добора в начале вашего хода.",
+        "UPGRADE_DESCRIPTION": "Вы берёте !M! карты и Сжигаете эту карту, когда берёте эту карту. NL Добавляет 1 Тсс в стопку добора в начале вашего хода.",
         "OLD_DESCRIPTION": "Дает !B! Защиты. NL Сжигается.",
         "OLD_UPGRADE_DESCRIPTION": "Whenever you добора this card, add a copy NL of it to your hand. NL Дает !B! Защиты. NL Сжигается."
     },
     "somnambulantmod: ShowerThought": {
-        "NAME": "Shower Thought",
-        "DESCRIPTION": "Наносит урона equal to your Защиты. NL Дает !B! Защиты.",
+        "NAME": "Мысленный поток",
+        "DESCRIPTION": "Наносит урона, равный вашей Защите. NL Дает !B! Защиты.",
         "UPGRADE_DESCRIPTION": " NL (Наносит !D! урона.)"
     },
     "somnambulantmod: Cower": {
-        "NAME": "Cower",
-        "DESCRIPTION": "Дает !B! Защиты. NL Накладывает !M! Weak to yourself."
+        "NAME": "Съежиться",
+        "DESCRIPTION": "Дает !B! Защиты. NL Вы получаете !M! Слабости."
     },
     "somnambulantmod: PillowFort": {
-        "NAME": "Pillow Fort",
-        "DESCRIPTION": "Эфирная. NL Дает !B! Защиты. NL Add !M! копии of this card into your сброса pile."
+        "NAME": "Крепость из подушек",
+        "DESCRIPTION": "Эфирная. NL Дает !B! Защиты. NL Добавляет !M! свои копии в стопку сброса."
     },
     "somnambulantmod: SnuggleUp": {
-        "NAME": "Snuggle Up",
-        "DESCRIPTION": "Дает !B! Защиты. NL Whenever you добора this card, Дает !M! Защиты."
+        "NAME": "Прижаться",
+        "DESCRIPTION": "Дает !B! Защиты. NL Дает !M! Защиты, когда вы берёте эту карту."
     },
     "somnambulantmod: InLimbo": {
-        "NAME": "In Limbo",
-        "DESCRIPTION": "Whenever you play your fourth card in a turn, add your сброса pile to the top of your добора pile in random order."
+        "NAME": "В лимбо",
+        "DESCRIPTION": "Кладёт стопку сброса на верх стопки добора в случайном порядке, когда вы разыгрываете 4 карты в одном ходу."
     },
     "somnambulantmod: SharpeningMind": {
-        "NAME": "Sharpening Mind",
-        "DESCRIPTION": "Whenever you are attacked, Наносит !M! урона back. NL Whenever you добора this card, increase this value by 3.",
-        "UPGRADE_DESCRIPTION": "Whenever you are attacked, Наносит !M! урона back. NL Whenever you добора this card, increase this value by 5."
+        "NAME": "Острый рассудок",
+        "DESCRIPTION": "Наносит врагу !M! урона в ответ на каждую атаку. NL Урон, наносимый этой картой, повышается на 3 в этом бою, когда вы берёте эту карту.",
+        "UPGRADE_DESCRIPTION": "Наносит врагу !M! урона в ответ на каждую атаку. NL Урон, наносимый этой картой, повышается на 5 в этом бою, когда вы берёте эту карту."
     },
     "somnambulantmod: Bloom": {
-        "NAME": "Bloom",
-        "DESCRIPTION": "сброса the top !M! cards from your добора pile. NL Put a card from your сброса pile into your hand.",
+        "NAME": "Расцвет",
+        "DESCRIPTION": "Сбрасывает !M! карт с верха стопки добора. NL Вы кладёте карту из стопки сброса в руку.",
         "OLD_DESCRIPTION": "добора !M! card. NL Put a card from your сброса pile on top of your добора pile."
     },
     "somnambulantmod: HeavyLids": {
-        "NAME": "Heavy Lids",
-        "DESCRIPTION": "Дает !B! Защиты. NL This costs 0 if you have a Dream in hand."
+        "NAME": "Тяжелые веки",
+        "DESCRIPTION": "Дает !B! Защиты. NL Эта карта стоит 0, если в руке есть *Сон."
     },
     "somnambulantmod: Harden": {
-        "NAME": "Harden",
-        "DESCRIPTION": "добора !M! card. NL Дает Защиты equal to the number of cards in your hand.",
-        "UPGRADE_DESCRIPTION": "добора !M! cards. NL Дает Защиты equal to the number of cards in your hand."
+        "NAME": "Застыть",
+        "DESCRIPTION": "Вы берёте !M! карты. NL Дает 1 Защиты за каждую карту в руке.",
+        "UPGRADE_DESCRIPTION": "Вы берёте !M! карты. NL Дает 1 Защиты за каждую карту в руке."
     },
     "somnambulantmod: SleepingBody": {
-        "NAME": "Sleeping Body",
-        "DESCRIPTION": "Whenever you добора a Dream or Nightmare, Дает !M! Защиты."
+        "NAME": "Спящее тело",
+        "DESCRIPTION": "Дает !M! Защиты, когда вы берёте *Сон или *Кошмар."
     },
     "somnambulantmod: NightHaunts": {
-        "NAME": "Night Haunts",
-        "DESCRIPTION": "Наносит !D! урона. NL Whenever you Сжигается a card this turn, Накладывает !M! Яда. NL Сжигается."
+        "NAME": "Ночные призраки",
+        "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Яда, когда карта Сжигается в этом ходу. NL Сжигается."
     },
     "somnambulantmod: Ignorance": {
-        "NAME": "Ignorance",
-        "DESCRIPTION": "Whenever you Сжигается a card this turn, NL Дает [G]. NL You cannot добора additional cards this turn. NL Сжигается."
+        "NAME": "Неведение",
+        "DESCRIPTION": "Дает [G], когда вы Сжигаете карту в этом ходу. NL Вы больше не сможете брать карты в этом ходу. NL Сжигается."
     },
     "somnambulantmod: Reject": {
-        "NAME": "Reject",
-        "DESCRIPTION": "Оставляется. NL Сжигается ВСЕМ Nightmares in your hand. Дает !B! Защиты for each card exhausted this way. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Оставляется. NL Сжигается ВСЕМ Nightmares in your hand. Дает !B! Защиты for each card exhausted this way."
+        "NAME": "Отторгнуть",
+        "DESCRIPTION": "Оставляется. NL Сжигает ВСЕ *Кошмары в руке. NL Дает !B! Защиты за каждую Сожжёную этой картой карту. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Оставляется. NL Сжигает ВСЕ *Кошмары в руке. NL Дает !B! Защиты за каждую Сожжёную этой картой карту."
     },
     "somnambulantmod: Unburden": {
-        "NAME": "Unburden",
-        "DESCRIPTION": "Сжигается ВСЕМ Nightmares in your hand. Дает 1 Ловкости for each Nightmare exhausted.",
-        "UPGRADE_DESCRIPTION": "Оставляется. NL Сжигается ВСЕМ Nightmares in your hand. Дает 1 Ловкости for each Nightmare exhausted.",
+        "NAME": "Облегчиться",
+        "DESCRIPTION": "Сжигает ВСЕ *Кошмары в руке. NL Дает 1 Ловкости за каждый Сожжёный *Кошмар.",
+        "UPGRADE_DESCRIPTION": "Оставляется. NL Сжигает ВСЕ *Кошмары в руке. NL Дает 1 Ловкости за каждый Сожжёный *Кошмар.",
         "OLD_DESCRIPTION": "Сжигается ВСЕМ Nightmares in your hand and create that many random attacks. They cost 0 this turn. NL Сжигается.",
         "OLD_UPGRADE_DESCRIPTION": "Оставляется. NL Сжигается ВСЕМ Nightmares in your hand and create that many random attacks. They cost 0 this turn. NL Сжигается."
     },
     "somnambulantmod: Unknow": {
-        "NAME": "Unknow",
-        "DESCRIPTION": "Дает !B! Защиты. сброса !M! cards at random."
+        "NAME": "Незнание",
+        "DESCRIPTION": "Дает !B! Защиты NL Сбрасывает !M! случ. карт."
     },
     "somnambulantmod: AllForNothing": {
-        "NAME": "ВСЕМ For Nothing",
-        "DESCRIPTION": "Оставляется. NL Сжигается your hand. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Оставляется. Сжигается your hand, then добора a card. NL Сжигается."
+        "NAME": "Всё ради ничего",
+        "DESCRIPTION": "Оставляется. NL Сжигает все карты в руке. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Оставляется. NL Сжигает все карты в руке NL Вы берёте 1 карту. NL Сжигается."
     },
     "somnambulantmod: Narcolepsy": {
-        "NAME": "Narcolepsy",
-        "DESCRIPTION": "Эфирная. NL Stun an врагу. Add !M! Nightmares to your добора pile. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Stun an врагу. Add !M! Nightmares to your добора pile. NL Сжигается."
+        "NAME": "Нарколепсия",
+        "DESCRIPTION": "Эфирная. NL Оглушает врага. NL Добавляет !M! *Кошмаров в стопку добора. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Оглушает врага. NL Добавляет !M! *Кошмаров в стопку добора. NL Сжигается."
     },
     "somnambulantmod: Blink": {
-        "NAME": "Blink",
-        "DESCRIPTION": "Эфирная. NL Add !M! Dream to your сброса pile.",
-        "UPGRADE_DESCRIPTION": "Эфирная. NL Add !M! Dreams to your сброса pile."
+        "NAME": "Моргнуть",
+        "DESCRIPTION": "Эфирная. NL Добавляет !M! *Сон в стопку сброса.",
+        "UPGRADE_DESCRIPTION": "Эфирная. NL Добавляет !M! *Сна в стопку сброса."
     },
     "somnambulantmod: Withdraw": {
-        "NAME": "Withдобора",
-        "DESCRIPTION": "Дает !M! Mental Barrier. Whenever you добора this card, добора a card.  NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Дает !M! Mental Barrier X times. Whenever you добора this card, добора a card. "
+        "NAME": "Изъять",
+        "DESCRIPTION": "Дает !M! Ментального Барьера. NL Вы берёте 1 карту, когда берёте эту карту. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Дает !M! Ментального Барьера X раз. NL Вы берёте 1 карту, когда берёте эту карту."
     },
     "somnambulantmod: Pinch": {
-        "NAME": "Pinch",
-        "DESCRIPTION": "Наносит !D! урона !M! times."
+        "NAME": "Щипать",
+        "DESCRIPTION": "Наносит !D! урона !M! раз."
     },
     "somnambulantmod: SickeningSwathe": {
-        "NAME": "Sickening Swathe",
-        "DESCRIPTION": "Накладывает !M! Яда to ВСЕМ врагам. NL Добавляет a Nightmare into your добора pile."
+        "NAME": "Отвратительный бинт",
+        "DESCRIPTION": "Накладывает !M! Яда на ВСЕХ врагов. NL Добавляет *Кошмар в стопку добора."
     },
     "somnambulantmod: Sleepyhead": {
-        "NAME": "Sleepyhead",
-        "DESCRIPTION": "врагу loses !M! Силы this turn."
+        "NAME": "Соня",
+        "DESCRIPTION": "Враг теряет !M! Силы в этом ходу."
     },
     "somnambulantmod: Lucidity": {
-        "NAME": "Lucidity",
-        "DESCRIPTION": "At the end of your turn, add !M! Dream to your сброса pile. ВСЕМ cards Сжигается when played."
+        "NAME": "Осознанность",
+        "DESCRIPTION": "Добавляет !M! Сна в стоку сброса в конце вашего хода. NL Каждая разгрываемая карта Сжигается."
     },
     "somnambulantmod: Overcome": {
-        "NAME": "Overcome",
-        "DESCRIPTION": "Heal !M! HP. NL сброса ВСЕМ Nightmares from your hand. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Heal !M! HP. NL Сжигается ВСЕМ Nightmares from your hand. NL Сжигается."
+        "NAME": "Превозмочь",
+        "DESCRIPTION": "Восполняет !M! ОЗ. NL Сбрасывает ВСЕ *Кошмары из руки. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Восполняет !M! ОЗ. NL Сжигает ВСЕ *Кошмары в руке. NL Сжигается."
     },
     "somnambulantmod: DreamBig": {
-        "NAME": "Dream Big",
-        "DESCRIPTION": "Add X Dreams to your сброса pile. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Add X Dreams to your сброса pile 2 times. NL Сжигается."
+        "NAME": "Большие мечты",
+        "DESCRIPTION": "Добавляет X Сна* в стопку сброса. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Добавляет X *Сна в стопку сброса 2 раза. NL Сжигается."
     },
     "somnambulantmod: MuscleMemory": {
-        "NAME": "Muscle Memory",
-        "DESCRIPTION": "Эфирная. Сжигается a card in your hand. Дает !M! Силы."
+        "NAME": "Мышечная память",
+        "DESCRIPTION": "Эфирная. Сжигает карту в руке. Дает !M! Силы."
     },
     "somnambulantmod: SleepParalysis": {
-        "NAME": "Sleep Paralysis",
-        "DESCRIPTION": "Add a Dream and Nightmare to your hand. Накладывает !M! Vulnerable to yourself. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Add an upgraded Dream and Nightmare to your hand. Накладывает !M! Vulnerable to yourself. NL Сжигается."
+        "NAME": "Сонный паралич",
+        "DESCRIPTION": "Добавляет Сон и Кошмар в руку. Вы получаете !M! Уязвимости. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Добавляет улучшенные Сон и Кошмар в руку. Вы получаете !M! Уязвимости. NL Сжигается."
     },
     "somnambulantmod: Wake": {
-        "NAME": "Wake",
-        "DESCRIPTION": "Сжигается ВСЕМ Nightmares and Dreams from your hand and добора pile. добора a card for each card exhausted. NL Сжигается.",
-        "UPGRADE_DESCRIPTION": "Сжигается ВСЕМ Nightmares from your hand and добора pile. добора a card for each card exhausted. NL Сжигается."
+        "NAME": "Проснуться",
+        "DESCRIPTION": "Сжигает ВСЕ *Кошмары и *Сны в вашей руке и стопке добора. NL Вы берёте 1 карту за каждую Сожжённую этой картой карту карту. NL Сжигается.",
+        "UPGRADE_DESCRIPTION": "Сжигает ВСЕ *Кошмары в вашей руке и стопке добора. NL Вы берёте 1 карту за каждую Сожжённую этой картой карту карту. NL Сжигается."
     },
     "somnambulantmod: Unmake": {
-        "NAME": "Unmake",
-        "DESCRIPTION": "Наносит !D! урона to ВСЕМ врагам. NL Add your сброса pile to the top of your добора pile in random order."
+        "NAME": "Отменить",
+        "DESCRIPTION": "Наносит !D! урона ВСЕМ врагам. NL Кладет стопку сброса на верх стопки добора в случайном порядке."
     },
     "somnambulantmod: LightSleeper": {
-        "NAME": "Light Sleeper",
-        "DESCRIPTION": "Dreams and Nightmares cost 1 less.",
-        "UPGRADE_DESCRIPTION": "Dreams and Nightmares cost 1 less. NL Add a Dream to your сброса pile."
+        "NAME": "Чуткий сон",
+        "DESCRIPTION": "Сны и кошмары стоят на 1 меньше.",
+        "UPGRADE_DESCRIPTION": "Сны и кошмары стоят на 1 меньше. NL Добавляет Сон в стопку сброса."
     },
     "somnambulantmod: GnarledSwing": {
-        "NAME": "Gnarled Swing",
-        "DESCRIPTION": "Наносит !D! урона. NL This costs 1 if you have a Nightmare in hand."
+        "NAME": "Корявый взмах",
+        "DESCRIPTION": "Наносит !D! урона. NL Эта карта стоит 1, если в руке есть *Кошмар."
     },
     "somnambulantmod: MaterializedGlimpse": {
-        "NAME": "Materialized Glimpse",
-        "DESCRIPTION": "Наносит !D! урона to a random врагу. NL Repeat for each Nightmare in your hand."
+        "NAME": "Материализовнный проблеск",
+        "DESCRIPTION": "Наносит !D! урона случ. врагу. NL Повторяет за каждый *Кошмар в руке."
     },
     "somnambulantmod: LostMind": {
-        "NAME": "Lost Mind",
-        "DESCRIPTION": "At the start of your turn, Дает [G] and add a Nightmare to your добора pile."
+        "NAME": "Потерянный рассудок",
+        "DESCRIPTION": "Дает [G] и добавляет *Кошмар в стопку добора в начале каждого вашего хода."
     },
     "somnambulantmod: HeadSmack": {
-        "NAME": "Head Smack",
-        "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Vulnerable."
+        "NAME": "Шлепок по голове",
+        "DESCRIPTION": "Наносит !D! урона. NL Накладывает !M! Уязвимости."
     },
     "somnambulantmod: LoseForm": {
-        "NAME": "Lose Form",
-        "DESCRIPTION": "At the start of your turn, play a random card from your сброса pile and Сжигается it.",
-        "UPGRADE_DESCRIPTION": "At the start of your turn, play a card from your сброса pile and Сжигается it."
+        "NAME": "Облик забвения",
+        "DESCRIPTION": "Вы разыгрываете случ. карту из стопки сброса и Сжигаете её в начале каждого вашего хода.",
+        "UPGRADE_DESCRIPTION": "Вы разыгрываете карту из стопки сброса и Сжигаете её в начале каждого вашего хода."
     },
     "somnambulantmod: ShimmeringVeil": {
-        "NAME": "Shimmering Veil",
-        "DESCRIPTION": "Защиты is not removed at the start of your next !M! turns."
+        "NAME": "Мерцающая вуаль",
+        "DESCRIPTION": "Защита не исчезнет в начале вашего след. !M! ходов."
     },
     "somnambulantmod: ImpenetrableMind": {
-        "NAME": "Impenetrable Mind",
-        "DESCRIPTION": "Эфирная. NL Whenever you добора a card, Дает !M! Защиты."
+        "NAME": "Непроницаемый рассудок",
+        "DESCRIPTION": "Эфирная. NL Дает !M! Защиты, когда вы берёте карту."
     },
     "somnambulantmod: Mindlessness": {
-        "NAME": "Mindlessness",
-        "DESCRIPTION": "Whenever you Сжигается a card, add a random attack to your hand."
+        "NAME": "Безмозглость",
+        "DESCRIPTION": "Добавляет случ. атаку в руку, когда Сжигается карта."
     },
     "somnambulantmod: GalaxyBrain": {
-        "NAME": "Galaxy Brain",
-        "DESCRIPTION": "Whenever you play a Dream, Сжигается ВСЕМ cards in your hand."
+        "NAME": "Галактический мозг",
+        "DESCRIPTION": "Сжигает ВСЕ карты в руке, когда вы разыгравете *Сон."
     },
     "somnambulantmod: PrimingPunch": {
-        "NAME": "Priming Punch",
-        "DESCRIPTION": "Наносит !D! урона. NL Upgrade a random card in your hand.",
-        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Upgrade a card in your hand."
+        "NAME": "Тумак для затравки",
+        "DESCRIPTION": "Наносит !D! урона. NL Улучшает случ. карту в руке до конца боя.",
+        "UPGRADE_DESCRIPTION": "Наносит !D! урона. NL Улучшает карту в руке до конца боя."
     }
 }

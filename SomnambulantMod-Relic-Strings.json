@@ -1,30 +1,30 @@
 {
     "somnambulantmod: DreamJournal": {
-        "NAME": "Dream Journal",
-        "FLAVOR": "Write it when you wake.",
+        "NAME": "Дневник сновидений",
+        "FLAVOR": "Запиши при пробуждении.",
         "DESCRIPTIONS": [
-            "Whenever you rest at a campsite, raise your Max HP by #b2 and upgrade a random card in your deck."
+            "Увеличивает Макс. ОЗ на #b2 и улучшает случ. карту в колоде при #yОтдыхе в лагере."
         ]
     },
     "somnambulantmod: DementingVeil": {
-        "NAME": "Dementing Veil",
+        "NAME": "Вуаль безумия",
         "FLAVOR": "Everything spirals into dream.",
         "DESCRIPTIONS": [
-            "At the end of your turn, exhaust all cards in your hand."
+            "Сжигает все карты в руке в конце вашего хода."
         ]
     },
     "somnambulantmod: GluedMask": {
         "NAME": "Glued Mask",
         "FLAVOR": "It helps you see things as they should be.",
         "DESCRIPTIONS": [
-            "At the start of your turn, gain [E] . At the beginning of combat, add 2 Nightmares to your draw pile. Nightmares can not be played."
+            "Даёт [E] в начале вашего хода. Добавляет 2 #rКошмара в стопку добора в начале боя. #rКошмары больше нельзя разыграть."
         ]
     },
     "somnambulantmod: BrokenTimepiece": {
         "NAME": "Broken Timepiece",
         "FLAVOR": "Trust no other to wake you but a working timepiece.",
         "DESCRIPTIONS": [
-            "Whenever a Dream is exhausted, gain 3 Strength."
+            "Дает 3 Силы, когда Сжигается #rСон."
         ]
     },
     "somnambulantmod: MemoirOfAnother": {
@@ -38,7 +38,7 @@
         "NAME": "Memory House",
         "FLAVOR": "A place to keep them safe.",
         "DESCRIPTIONS": [
-            "At the beginning of combat, add 2 Dreams to your discard pile."
+            "Добавляет 2 *Сна в стопку сброса в начале боя."
         ]
     },
     "somnambulantmod: SleepingPills": {
