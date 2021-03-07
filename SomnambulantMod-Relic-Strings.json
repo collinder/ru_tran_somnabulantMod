@@ -8,63 +8,63 @@
     },
     "somnambulantmod: DementingVeil": {
         "NAME": "Вуаль безумия",
-        "FLAVOR": "Everything spirals into dream.",
+        "FLAVOR": "Все улетает в сон.",
         "DESCRIPTIONS": [
             "Сжигает все карты в руке в конце вашего хода."
         ]
     },
     "somnambulantmod: GluedMask": {
-        "NAME": "Glued Mask",
-        "FLAVOR": "It helps you see things as they should be.",
+        "NAME": "Склееная маска",
+        "FLAVOR": "Помогает видеть вещи такими, какие они есть.",
         "DESCRIPTIONS": [
             "Даёт [E] в начале вашего хода. Добавляет 2 #rКошмара в стопку добора в начале боя. #rКошмары больше нельзя разыграть."
         ]
     },
     "somnambulantmod: BrokenTimepiece": {
-        "NAME": "Broken Timepiece",
-        "FLAVOR": "Trust no other to wake you but a working timepiece.",
+        "NAME": "Сломанный будильник",
+        "FLAVOR": "Не доверяйте ничему, кроме рабочего будильника, чтобы разбудить вас.",
         "DESCRIPTIONS": [
             "Дает 3 Силы, когда Сжигается #rСон."
         ]
     },
     "somnambulantmod: MemoirOfAnother": {
-        "NAME": "Memoir of Another",
-        "FLAVOR": "Proper literature for a dream out of bounds.",
+        "NAME": "Мемуары Другого",
+        "FLAVOR": "Подходящяя литература для сна вне тела.",
         "DESCRIPTIONS": [
             "Позволяет добавлять карты другого цвета в колоду при #yОтдыхе в лагере. Если у вас есть 'Ловец снов', добавляет карту Сомнабуланта к выбору и улучшает карты в выборе."
         ]
     },
     "somnambulantmod: MemoryHouse": {
-        "NAME": "Memory House",
-        "FLAVOR": "A place to keep them safe.",
+        "NAME": "Дворец памяти",
+        "FLAVOR": "Место, где для них безопасно.",
         "DESCRIPTIONS": [
             "Добавляет 2 *Сна в стопку сброса в начале боя."
         ]
     },
     "somnambulantmod: SleepingPills": {
-        "NAME": "Sleeping Pills",
-        "FLAVOR": "To build a cavernous mind.",
+        "NAME": "Снотворное",
+        "FLAVOR": "Чтобы создать пещерный разум.",
         "DESCRIPTIONS": [
             "Карты, добавленные *Сном, стоят #b0 до конца боя."
         ]
     },
     "somnambulantmod: RunicStrip": {
-        "NAME": "Runic Strip",
-        "FLAVOR": "Infinite objects can be somewhat tiring.",
+        "NAME": "Руническая лента",
+        "FLAVOR": "Бесконечные объяекты могут несколько утомлять.",
         "DESCRIPTIONS": [
             "Дает 3 #yМентального #yБарьера, когда враг получает #yСилу."
         ]
     },
     "somnambulantmod: CiphersPen": {
-        "NAME": "Cipher's Pen",
-        "FLAVOR": "The pen writes its meaning true.",
+        "NAME": "Ручка шифровальщика",
+        "FLAVOR": "Ручка правильно выписывает свой смысл.",
         "DESCRIPTIONS": [
             "#rСны и #rКошмары автоматически #yУлучшаются."
         ]
     },
     "somnambulantmod: PrivatePocket": {
-        "NAME": "Private Pocket",
-        "FLAVOR": "Everyone has the right to their private pocket.",
+        "NAME": "Частный карман",
+        "FLAVOR": "У каждого есть право на свой частный карман.",
         "DESCRIPTIONS": [
             "Дает 1 #yМентального #yБарьера. когда #yСжигается карта."
         ]
