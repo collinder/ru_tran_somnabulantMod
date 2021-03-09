@@ -101,8 +101,8 @@
     },
     "somnambulantmod: QuickNap": {
         "NAME": "Ненадолго задремать",
-        "DESCRIPTION": "Вы берёте !M! карт. NL Добавляет *Сон в стопку сброса. NL Добавляет Кошмар в стопку добора.",
-        "UPGRADE_DESCRIPTION": "Вы берёте !M! карт. NL Добавляет *Сон в стопку сброса. NL Добавляет *Кошмар в стопку добора."
+        "DESCRIPTION": "Вы берёте !M! карту. NL Добавляет *Сон в стопку сброса. NL Добавляет Кошмар в стопку добора.",
+        "UPGRADE_DESCRIPTION": "Вы берёте !M! карту. NL Добавляет *Сон в стопку сброса. NL Добавляет *Кошмар в стопку добора."
     },
     "somnambulantmod: Defend_Somnambulant": {
         "NAME": "Оборона",
@@ -215,7 +215,7 @@
     },
     "somnambulantmod: ShowerThought": {
         "NAME": "Мысленный поток",
-        "DESCRIPTION": "Наносит урона, равный вашей Защите. NL Дает !B! Защиты.",
+        "DESCRIPTION": "Наносит урон, равный вашей Защите. NL Дает !B! Защиты.",
         "UPGRADE_DESCRIPTION": " NL (Наносит !D! урона.)"
     },
     "somnambulantmod: Cower": {
@@ -315,7 +315,7 @@
     },
     "somnambulantmod: Lucidity": {
         "NAME": "Осознанность",
-        "DESCRIPTION": "Добавляет !M! Сна в стоку сброса в конце вашего хода. NL Каждая разгрываемая карта Сжигается."
+        "DESCRIPTION": "Добавляет !M! Сон в стопку сброса в конце вашего хода. NL Каждая разгрываемая карта Сжигается."
     },
     "somnambulantmod: Overcome": {
         "NAME": "Превозмочь",
@@ -324,7 +324,7 @@
     },
     "somnambulantmod: DreamBig": {
         "NAME": "Большие мечты",
-        "DESCRIPTION": "Добавляет X Сна* в стопку сброса. NL Сжигается.",
+        "DESCRIPTION": "Добавляет X *Сна в стопку сброса. NL Сжигается.",
         "UPGRADE_DESCRIPTION": "Добавляет X *Сна в стопку сброса 2 раза. NL Сжигается."
     },
     "somnambulantmod: MuscleMemory": {
